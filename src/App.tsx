@@ -1,6 +1,8 @@
 import React from "react";
 import Corporations from "./Corporations";
 
-export default function App() {
+function App() {
   return <Corporations />;
 }
+
+export default App;
